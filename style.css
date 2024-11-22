@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(229, 250, 232);
+}
+
+.navbar {
+    background-color: rgb(141, 187, 149);
+}
+
+.opciones {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    text-decoration: underline;
+    background-color: white;
+    text-align: left;
+    text-decoration: none;
+    color: rgb(100, 133, 105);
+}
+
+.col p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(100, 133, 105);
+    
+}
+
+
+.titulo{
+    color: rgb(141, 187, 149);
+}
+
+.carousel-item{
+    color: rgb(100, 133, 105);
+}
